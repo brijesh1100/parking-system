@@ -1,7 +1,10 @@
 ## Parking system
 
-#Program can be execute with file read and using interactive console. 
-#Using File input run this command
+
+Program can be execute with file read and using interactive console. 
+
+Using File input run this command
+
 `java -jar ${jarName}.jar parkingInput.txt >> output.txt`
 
 #using console you can give the option like 
